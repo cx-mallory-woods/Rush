@@ -67,3 +67,4 @@ The [documentation-dvcsharp-book](./documentation-dvcsharp-book) folder has inst
 ## Pipeline
 ## Scan
 ## Jira test
+## Build pipeline test
